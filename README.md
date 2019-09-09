@@ -1,3 +1,13 @@
+## Submission
+This assignment was submitted with the data files already downloaded and stored in a sub-folder "../data"
+
+The library utilised are:
+<ul>
+  <li>data frames</li>
+  <li>dplyr</li>
+</ul>
+
+
 ## Introduction
 
 This assignment uses data from
